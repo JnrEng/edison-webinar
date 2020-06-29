@@ -40,5 +40,5 @@
 
 ## 8. Sumo Bot
 
-   <img src="images/Edison8.png" width="500" alt="Edison8.png">
+   <img src="images/Edison8.png" width="600" alt="Edison8.png">
 
